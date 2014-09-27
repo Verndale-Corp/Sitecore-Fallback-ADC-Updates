@@ -26,4 +26,4 @@ Testing
 4. Publish to both languages
 5. Perform Index search on the language falling back, the item should come up as a result
 
-Review the blog series about Partial Language Fallback on Sitecore, link TBD
+Review the blog series about Partial Language Fallback on Sitecore, http://www.sitecore.net/en-gb/Learn/Blogs/Technical-Blogs/Elizabeth-Spranzani.aspx
